@@ -1,6 +1,6 @@
 # Docker & Docker Compose Setup
 
-- git clone https://github.com/yahyakadiralbayrak/docker-install.git
+- git clone https://github.com/xxpandora/docker-install.git
 - cd docker-install
 
 - chmod 777 docker-compose-install.sh
